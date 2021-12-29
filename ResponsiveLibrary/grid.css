@@ -1,5 +1,5 @@
 /* Grid */
-/* width screen >= 1240px */
+/* width screen PC >= 1240px & mobile < 740px*/
 .grid {
     width: 100%;
     display: block;
